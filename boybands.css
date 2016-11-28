@@ -1,0 +1,12 @@
+#boy_bands{
+  display: inline-block;
+  margin-left: 10%;
+  width:40%;
+}
+
+#vegetables{
+  float: right;
+  display: inline-block;
+  margin-right: 10%;
+  width:40%;
+}
