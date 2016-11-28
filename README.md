@@ -8,8 +8,7 @@ CREATED ARRAYS TO PRACTICE ITERATING/PRINTING STUFF TO DOM USING FOR LOOPS
 ### SCREENSHOTS:
 
 
-https://github.com/danwventura/banking-form-exercise/blob/master/screenshots/bank_form_with_required_fields.png
-
+https://github.com/danwventura/boybands-and-veggies-exercise/blob/master/screenshots/boybands_and_veggies.png
 
 ### How to run:
 
